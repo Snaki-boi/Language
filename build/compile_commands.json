@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/snaki/Project/C++/Language/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/language.dir/src/main.cpp.o -c /home/snaki/Project/C++/Language/src/main.cpp",
+  "file": "/home/snaki/Project/C++/Language/src/main.cpp"
+}
+]

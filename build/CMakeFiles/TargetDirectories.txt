@@ -1,0 +1,3 @@
+/home/snaki/Project/C++/Language/build/CMakeFiles/language.dir
+/home/snaki/Project/C++/Language/build/CMakeFiles/edit_cache.dir
+/home/snaki/Project/C++/Language/build/CMakeFiles/rebuild_cache.dir
